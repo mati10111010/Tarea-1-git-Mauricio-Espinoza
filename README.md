@@ -1,5 +1,6 @@
 # tarea-1-git-Mauricio-Espinoza
 Repositorio de la tarea 1 para el Mini Bootcamp MB5
+
 ## Biografía
 Soy un programador de SENATI con experiencia en Python, desarrollo web con Flask y Java, y manejo de bases de datos con MySQL. Me apasiona crear soluciones prácticas y eficientes mediante la programación, además me alegró que me presentaran los cursos de Github y Scrum, me gusta aprender constantemente nuevas tecnologías y herramientas.
 ## Habilidades:
